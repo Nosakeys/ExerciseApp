@@ -1,10 +1,11 @@
-import './index.css';
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { Box } from "@mui/material";
 
 function App() {
   return (
-    <div className="h-96 w-screen flex items-center justify-center bg-red-800 text-white">
-      Hey Nosa, Let's Build!!!!!
-    </div>
+    <BrowserRouter>
+    
+    </BrowserRouter>
   );
 }
 
