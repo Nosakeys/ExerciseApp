@@ -9,6 +9,7 @@ const Navbar = () => (
       <img src={logo} alt="logo"  width={43}/>
     </Link>
     <SearchBar/>
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corrupti impedit earum accusamus id voluptatem voluptatibus reiciendis libero sunt, provident in dolorem iure hic minus cumque cupiditate ducimus explicabo ipsam quisquam.
   </Stack>
 )
 
