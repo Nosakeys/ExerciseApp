@@ -6,6 +6,7 @@ import ChannelDetail from "./components/ChannelDetail";
 import SearchFeed from "./components/SearchFeed";
 import Feed from "./components/Feed";
 import SideBar  from "./components/SideBar";
+import Videos from "./components/Videos";
 
 
 function App() {
