@@ -2,7 +2,11 @@ import React from 'react'
 
 const lemme = () => {
   return (
-    <div>lemme</div>
+    <div>
+        lorem na wetin cause am abi?
+        better shut
+        x=oooo
+      lemme</div>
   )
 }
 
