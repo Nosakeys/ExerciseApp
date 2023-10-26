@@ -6,6 +6,13 @@ const lemme = () => {
         lorem na wetin cause am abi?
         better shut
         x=oooo
+        hdhdhdbdvdvd
+        dhdgdgdhdbs
+        gdhdhdhhdhbhd
+        hdgdhdhdbdbdhd
+        dgdhduduehebdbfueisbfb
+        dhdidhendnehdiehhe
+        dhdufhdvshdbdbf
       lemme</div>
   )
 }
