@@ -2,7 +2,13 @@ import React from 'react'
 
 const wow = () => {
   return (
-    <div>wow</div>
+    <div>
+      hdhdjdbdhdhehehehe
+      dhdhdhdhdhdhdiwheudjbf
+      dhdidbebdudownebdyf
+      shdididndbdididbdys
+      dhdidhdbdidosnshdyd
+      dvdkdbwow</div>
   )
 }
 
