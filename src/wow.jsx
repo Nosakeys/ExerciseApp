@@ -1,12 +1,3 @@
 Import React from react;
 
 const Wow
-hhhbhhbbbhxhdbdbdbxh
-xbdbdbbdbdbfnd
-dbdvdbbdbdbbdvdvsvsvs
-svdbhdbdbbdbdbbdn
-dbdhhdhdbdhndndbdb
-dvdhdhbsbdbbdndbbsoksvd
-dvdjjs sbbsisn svdhhs
-dhdhsuhs sbbsbsbbsbshis
-shshshbsbbsbsbsbbsis
