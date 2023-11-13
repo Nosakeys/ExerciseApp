@@ -2,15 +2,3 @@
 Import React from react;
 
 const altWow
-hdhdhdjjdhdhd
-dhdudoohshd
-dhxidijdhhdxhxu
-dhdudiisbdvdudi
-dhdjdidbbdbd
-dhxudidjbsbsid
-dhdidjbsbd
-dhxijdbbbdd
-budihdhdhhhdjdbddhfhduei
-dvdudihebe
-dhdudiisbebwosohd
-dvdisojebdbv
